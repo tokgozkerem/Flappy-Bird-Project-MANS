@@ -1,0 +1,16 @@
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.csproj.AssemblyReference.cache
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.csproj.SuggestedBindingRedirects.cache
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\MainWindow.g.cs
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\App.g.cs
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS_MarkupCompile.cache
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS_MarkupCompile.lref
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\bin\Debug\Flappy Bird Project MANS.exe.config
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\bin\Debug\Flappy Bird Project MANS.exe
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\bin\Debug\Flappy Bird Project MANS.pdb
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\MainWindow.baml
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.g.resources
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy_Bird_Project_MANS.Properties.Resources.resources
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.csproj.GenerateResource.cache
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.csproj.CoreCompileInputs.cache
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.exe
+C:\Users\tkere\Desktop\coding\c#\Flappy Bird Project MANS\Flappy Bird Project MANS\obj\Debug\Flappy Bird Project MANS.pdb
